@@ -1,0 +1,7 @@
+name = "Lore"
+uuid = "462689ab-d59d-4178-acd7-2df0e481e1a4"
+authors = ["ILEA2006 <igouwelore@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
